@@ -12,6 +12,14 @@ public class Vegan {
 		System.out.println(rotiCurry);	
 		System.out.println(biryani);
 		System.out.println(deserts);
+    
+  
+ 		String haleem = "Vegan Haleem"; //Things to try out!!
+		String others = "Burgers, Pizza's, Drinks, Starters and few Main Course Items";
+			
+		System.out.println(haleem);
+		System.out.println(others);
+
 
 	}
 
